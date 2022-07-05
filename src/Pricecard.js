@@ -4,7 +4,7 @@ function Pricecard(props) {
 
   console.log(props.data.plan);
   return <>
-  <h1>Price card</h1>
+ 
    {/* <!-- Free Tier --> */}
    <div className="col-lg-4">
         <div className="card mb-5 mb-lg-0">
